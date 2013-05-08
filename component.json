@@ -8,5 +8,6 @@
   "scripts": [
     "index.js"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repo": "https://github.com/debianw/x2js"
 }
