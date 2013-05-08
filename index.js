@@ -335,3 +335,5 @@ function X2JS() {
         escapeMode = enabled;
     }
 }
+
+module.exports = new X2JS();
