@@ -1,0 +1,12 @@
+{
+  "name": "x2js",
+  "repo": "debianw/x2js",
+  "description": "XML <=> JSon Javascript convert/mapping Library",
+  "version": "1.0.11",
+  "keywords": ["xml2json", "xml", "json"],
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
